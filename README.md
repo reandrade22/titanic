@@ -6,6 +6,8 @@ Os processos aqui descritos **não** tem como objetivo encontrar o modelo com me
 
 As técnicas sugeridas aqui não são a única forma possível de tratar os dados. Outras técnicas e algoritmos podem ser utilizados, possivelmente com um resultado de acurácia superior ao descrito.
 
+Uma análise de dados mais profunda (com feature engineering, por exemplo) pode também resultar em modelos de melhor desempenho. Os notebook tratam os dados para que eles possam ser usados por um modelo, mas tratamentos diferentes podem ser mais adequados a depender do modelo sendo treinado.
+
 ## O Problema
 ---
 O dataset Titanic consiste em um conjunto de atributos que descrevem passageiros à bordo do navio. São fornecidos dois conjuntos de dados: uma para treinamento e outro para teste, sendo este o último o que deve ser submetido na plataforma para avaliação. 
